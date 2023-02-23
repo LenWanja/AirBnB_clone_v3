@@ -157,7 +157,7 @@ No known bugs at this time.
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Hellen Wanja - [Github](https://github.com/LenWanja) / [Twitter](https://twitter.com/Hellen Wanja)
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-
+Emmanuel Chibuzor Amadi - [GitHub](https://github.com/Otswag) / [Twitter](https://twitter.com/chibubest)
 
 Second part of Airbnb: Joann Vuong
 ## License
